@@ -12,7 +12,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,postman,nodejs)](https://skillicons.dev)
 
 ## 📫 Контакты: 
-***olis0001@yandex.ru***
+***olis0001@yandex.ru***  
+
+<a href='https://t.me/olis_0001'  target='_blank'><img height='45' width='45' src='https://cdn-icons-png.flaticon.com/512/3488/3488463.png'/><a/>
+
 
 
 
